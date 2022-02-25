@@ -1,4 +1,4 @@
-# Welcome :)
+
 ## Intro
 I'm a Software Development student studying at DkIT and currently interning at Ericsson as a Software Engineer. I have a keen interest in IoT and front-end projects. 
 ## What I am learning
